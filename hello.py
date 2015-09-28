@@ -1,6 +1,6 @@
 __author__ = 'Student'
 
-from helper import greeting
+from stuff import double_message
 
 
-greeting("hello")
+double_message("hello")
