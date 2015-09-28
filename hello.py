@@ -1,8 +1,12 @@
 __author__ = 'Student'
 
-from helper import greeting
+from stuff import double_message
 
 
+<<<<<<< HEAD
 greeting("hello")
 greeting("hello")
 greeting("hello")
+=======
+
+>>>>>>> develop
