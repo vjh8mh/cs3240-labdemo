@@ -2,7 +2,6 @@ __author__ = 'Student'
 
 from helper import greeting
 
+print("blerg")
 
-greeting("hello")
-greeting("hello")
-greeting("hello")
+greeting("double blerg")
